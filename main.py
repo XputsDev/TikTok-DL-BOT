@@ -13,7 +13,7 @@ import logging
 
 
 # TikTok Downloader API
-API = 'https://api.single-developers.software/tiktok?url='
+API = 'https://api.lolhuman.xyz/api/tiktokwm?apikey=59ffe9a00e8c2decfb5ceef5&url='
 
 # Your BOT Token
 BOT_TOKEN = '5578075150:AAFBCwpvaRGcuJAe3jDZPT8Zbjb76TTho3M'
